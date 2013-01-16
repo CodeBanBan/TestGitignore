@@ -1,0 +1,6 @@
+# project files
+*.xcodeproj/
+*.xcodeproj
+
+# specific files
+.DS_Store
